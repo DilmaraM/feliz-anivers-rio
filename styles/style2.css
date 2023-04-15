@@ -1,0 +1,70 @@
+body {
+    /* height: 100vh; */
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+.cabecalho {
+    padding: 2% 0% 0% 15%;
+}
+
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
+
+}
+
+.cabecalho__menu__link {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #22D4FD;
+    text-decoration: none;
+}
+
+p {
+    background-color: #000000;
+    color: red;
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+}
+.curriculo {
+    padding-left: 16%;
+    background-color: #000000;
+    color:orangered;
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+}
+h1 {
+    color: brown;
+}
+.informacao {
+    padding-left: 16%;
+    background-color: #000000;
+    color:brown;
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;  
+}
+
+.apresentacao {
+    /* padding: 5% 15%; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+li {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color:beige;
+}
+
+.rodape {
+    padding: 24px;
+   text-align: center;
+   font-family: 'montserrat', sans-serif;
+   font-size: 24px;
+   font-weight: 400;
+  
+  }
+  

@@ -1,0 +1,72 @@
+body {
+    box-sizing: border-box;
+    background-color: #fff0f5;
+    Color: #FF00FF;
+}
+.cabecalho {
+    padding: 2% 0% 0% 15%;
+    background-color: #ff69b4;
+
+}
+
+.cabecalho__menu {
+    display: flex;
+    gap: 80px;
+
+}
+.cabecalho__menu__link {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color:aliceblue;
+    text-decoration: none;
+}
+p {
+    color: #000000;
+    font-weight:lighter;
+    font-size: 20px;
+}
+
+.alguem__especial {
+    font-weight: lighter;
+    font-size: 100px;
+    color:#DB7093;
+
+}
+
+#poema1 {
+    font-weight: lighter;
+    font-size: 90px;
+    color:#DB7093;
+}
+p {
+    font-weight: lighter;
+    font-size: 40px;
+    color:#BC8F8F;
+}
+
+#fotos{
+    font-weight: lighter;
+    font-size: 90px;
+    color:#D87093;
+
+}
+.box__imagem {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    gap:70px;
+    
+}
+.imagem{
+    max-width:50em;
+    max-height: 30em;
+
+}
+.rodape{
+    box-sizing: border-box;
+    background: #FF00FF;
+    font-weight: lighter;
+    font-size:90px;
+    color:#fff0f5;
+
+}
